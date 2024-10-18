@@ -1,0 +1,28 @@
+{
+    "entidad1": {
+      "totalElementos": 2,
+      "tipo": "profesor",
+      "datos": [
+        {"atributo1": "nombre del alumno", "atributo2": "edad"},
+        {"atributo1": "Juan", "atributo2": 20},
+        {"atributo1": "Ana", "atributo2": 22}
+      ]
+    },
+    "entidad2": {
+      "totalElementos": 1,
+      "tipo": "transaccional",
+      "datos": [
+        {"atributo1": "nombre de la asignatura", "atributo2": "créditos"},
+        {"atributo1": "Matemáticas", "atributo2": 4}
+      ]
+    },
+    "entidad3": {
+      "totalElementos": 1,
+      "tipo": "profesor",
+      "datos": [
+        {"atributo1": "nombre del alumno", "atributo2": "nombre de la asignatura", "atributo3": "nota"},
+        {"atributo1": "Juan", "atributo2": "Matemáticas", "atributo3": 8.5}
+      ]
+    }
+  }
+  
